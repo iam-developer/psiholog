@@ -1,0 +1,512 @@
+@media screen and (max-width: 1100px) {
+    .modal-img {
+        padding: 200px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .about-her {
+        display: none;
+    }
+    .read-more {
+        display: block;
+    }
+    #about-me-content {
+        padding: 0;
+    }
+    .about-me {
+        padding: 50px 0 0px 0;
+    }
+    .title-h1 {
+        padding-bottom: 0;
+    }
+    .problems {
+        padding: 0;
+    }
+    .flex_block {
+        flex-direction: column;
+    }
+    .elem2, .elem4, .elem6, .elem8 {
+        order: -1;
+    }
+    .title {
+        line-height: 22px;
+        font-size: 22px;
+    }
+    .work-block {
+        margin: 20px 0;
+    }
+    .btn-center-service {
+        margin: 25px auto;
+        font-size: 13.5px;
+        padding: 10px 0;
+        width: 240px;
+    }
+    .service-text2 {
+        padding: 26px 15px;
+    }
+    .diploms {
+        padding-bottom: 0;
+    }
+    .previous {
+        left: -75px;
+    }
+    .next {
+        right: -75px;
+    }
+    .reviews-img {
+        max-width: inherit;
+        margin: 40px;
+    }
+    .header-menu {
+        display: none;
+    }
+    .burger_menu {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo {
+        position: absolute;
+    }
+    .fa-times:before {
+        content: "\f00d";
+        font-size: 26px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .modal-img {
+        padding: 140px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .advantage-container {
+        flex-direction: column;
+        padding-top: 0;
+    }
+    .btn-center-service {
+        width: 300px;
+        padding: 15px;
+    }
+    .modal-img {
+        padding: 80px;
+    }
+    .advantage-content {
+        padding: 20px 0;
+    }
+    .xx {
+        padding-bottom: 25px;
+    }
+    .header {
+        background-position: 100%;
+    }
+    .services-container {
+        display: block;
+    }
+    .services-content {
+        padding: 50px 60px 50px;
+        margin: 20px auto 0;
+    }
+    .service-text {
+        padding: 54px 0;
+    }
+    .title {
+        padding-top: 20px;
+    }
+    .burger_menu {
+        width: 40px;
+        height: 40px;
+    }
+    .phone-number {
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .modal-img {
+        padding: 40px;
+    }
+}
+
+@media screen and (max-width: 646px) {
+    .previous {
+        left: -30px;
+    }
+    .next {
+        right: -30px;
+    }
+    .modal-img {
+        padding: 8px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .reviews-img {
+        max-width: inherit;
+        margin: 40px;
+    }
+    .slick-next:before {
+        content: '>';
+        right: 45px;
+    }
+    .advantages {
+        padding-top: 0;
+    }
+    .dots-item {
+        width: 7px;
+        height: 7px;
+    }
+    .slick-prev:before {
+        content: '<';
+        left: 48px;
+    }
+    .title {
+        padding-bottom: 8px;
+    }
+    .advantage-content {
+        padding-top: 0;
+    }
+    .footer-text {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .num {
+        text-align: left;
+    }
+    .footer-text2 {
+        font-size: 16px;
+    }
+    .footer-number {
+        font-size: 16px;
+        text-align: right;
+        line-height: 18px;
+    }
+    .footer {
+        padding-bottom: 50px;
+    }
+    #top {
+        top: -9px;
+    }
+    .about-me-container {
+        flex-direction: column;
+    }
+    .services-content {
+        margin: 40px auto 0;
+    }
+    .header-top {
+        flex-direction: column;
+        padding-left: 0;
+    }
+    .phone-block {
+        padding-right: 0;
+    }
+    .telephone {
+        padding-top: 50px;
+    }
+    .header-name {
+        padding-left: 20px;
+    }
+    .header-title {
+        font-size: 38px;
+        padding-top: 70px;
+    }
+    .header {
+        background-size: auto;
+        background-position: inherit;
+        padding-bottom: 60px;
+    }
+    .xx {
+        padding-top: 20px;
+        line-height: 32px;
+    }
+    .border {
+        margin: 5px 0 20px;
+        height: 2px;
+    }
+    .nn {
+        margin-top: -80px;
+    }
+    .footer-container {
+        justify-content: flex-start;
+    }
+    .order-footer {
+        position: absolute;
+        top: 72px;
+        left: -25%;
+        order: 1;
+    }
+
+.header-btn {
+        font-size: 16px;
+        width: 360px;
+        padding: 18px 20px;
+    }
+.btn-center-service {
+        width: auto;
+    }
+.header-icons-container {
+        flex-direction: column;
+        width: 300px;
+        padding: 50px 0 0;
+    }
+    .header-icon {
+        padding-bottom: 22px;
+        padding-right: 0;
+    }
+    .jjj {
+        padding-right: 26px;
+    }
+    .header-text {
+        padding: 40px 60px 40px 0px;
+    }
+    .diploms {
+        padding-top: 50px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .modal-block {
+        width: 27rem;
+    }
+    .order-footer {
+        left: -23%;
+    }
+}
+
+@media screen and (max-width: 477px) {
+    .btn-center-service {
+        width: 270px;
+    }
+    .order-txt {
+        padding-top: 4px;
+    }
+    .services {
+        padding: 50px 0 70px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .whatsapp-num  {
+        font-size: 15px;
+    }
+    .modal-block {
+        width: 23rem;
+    }
+    .hh {
+        padding: 0;
+    }
+    .services-content {
+        padding-top: 0;
+    }
+    .text {
+        line-height: 20px;
+    }
+    .cost {
+        font-size: 22px;
+    }
+    .header-title {
+        line-height: 44px;
+    }
+    .footer-number {
+        font-size: 12px;
+    }
+    .footer-text {
+        font-size: 14px;
+    }
+    .footer-text2 {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .slick-prev:before {
+        content: '<';
+        left: 38px;
+    }
+    .title-h1 {
+        font-size: 30px;
+        padding-top: 0;
+    }
+    .xx {
+        padding-top: 30px;
+    }
+    .illustrate {
+        height: auto;
+    }
+    .btn-center-service {
+        width: 270px;
+        padding: 12px 10px;
+        line-height: 18px;
+        font-size: 14px;
+    }
+    .service-text {
+        padding: 20px 0;
+        line-height: 25px;
+        font-size: 17px;
+    }
+    .service-text2 {
+        padding: 20px 15px;
+        line-height: 25px;
+        font-size: 17px;
+    }
+    .header-name {
+        font-size: 20px;
+    }
+    .header {
+        padding-bottom: 40px;
+    } 
+    .services-content {
+        padding: 30px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+     .header-text {
+        padding: 40px 200px 40px 0px;
+     }
+ }
+@media screen and (max-width: 412px) {
+    #top {
+        top: 0;
+    }
+}
+
+@media screen and (max-width: 409px) {
+    .header-title {
+        line-height: 38px;
+        padding-top: 45px;
+    }
+}
+
+@media screen and (max-width: 397px) {
+    .footer-icons img {
+        width: 28px;
+    }
+    .order-footer {
+        left: -20%;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .footer-icons img {
+        width: 27px;
+    }
+    .tel {
+        padding-bottom: 3px;
+    }
+    .header-text {
+        padding: 40px 240px 40px 0px;
+     }
+    .header-title {
+        font-size: 35px;
+    }
+    .send-btn {
+        padding: 8px 0;
+    }
+    .send-btn-order {
+        padding: 8px 0;
+    }
+    .services-content {
+        padding: 20px;
+    }
+    .zz {
+        margin-top: -50px;
+    }
+    .btn-center-service {
+        width: 230px;
+    }
+    .modal-block {
+        padding: 1rem 1.5rem;
+        width: 20rem;
+    }
+    .input {
+        width: 270px;
+    }
+    .whatsapp-num {
+        line-height: 14px;
+    }    
+    .btn-center-service {
+        width: 248px;
+        padding: 10px 8px;
+        font-size: 13px;
+        }
+    .header-btn {
+        width: 290px;
+        padding: 15px 10px;
+        font-size: 15px;
+    }
+    .order-txt {
+        font-size: 12px;
+    }
+    .services-content {
+        padding: 20px 10px 20px;
+    }
+    .summ {
+        padding: 0;
+    }
+    .order-text {
+        padding: 5px 5px;
+    }
+    .input {
+        padding: 6px 10px;
+        line-height: 17px;
+    }
+    .absolute-footer {
+        left: 47%;
+    }
+    .input {
+        width: 220px;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+    .modal-block {
+        width: 18rem;
+    }
+    .order-footer {
+        top: 80px;
+        left: -19%;
+    }
+    #top {
+        top: -9px;
+    }
+}
+
+@media screen and (max-width: 355px) {
+    .footer-icons img {
+        width: 22px;
+    }
+}
+
+@media screen and (max-width: 350px){
+    .input {
+        width: 240px;
+    }
+    .header-icons-container {
+        width: 276px;
+    }
+    .header-icon-text {
+        font-size: 15px;
+    }
+    .header-icon-img {
+        width: 34px;
+        height: 34px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .title-h1 {
+        padding: 25px 0;
+        line-height: 25px;
+    }
+    .nn {
+        margin-top: -170px;
+    }
+    .zz {
+        margin-top: -90px;
+    }
+    .order-footer {
+        left: -15%;
+    }
+}
